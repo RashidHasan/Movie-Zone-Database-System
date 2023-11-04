@@ -30,8 +30,8 @@ Several rules and restrictions were imposed on the database to ensure data accur
 - Ensuring database normalization.
 - Designing input and output interfaces.
 - Assessing and validating the design against requirements.
+<img src="https://github.com/RashidHasan/Movie-Zone-Database-System/assets/136935583/5687ef52-825a-44ba-85cb-8070fdccf716" width="200" height="200">
 
-<img src="![Screenshot (1151)](https://github.com/RashidHasan/Movie-Zone-Database-System/assets/136935583/5687ef52-825a-44ba-85cb-8070fdccf716)" width="200" height="200">
 
 ![Screenshot (1151)](https://github.com/RashidHasan/Movie-Zone-Database-System/assets/136935583/5687ef52-825a-44ba-85cb-8070fdccf716)
 ![Screenshot (1152)](https://github.com/RashidHasan/Movie-Zone-Database-System/assets/136935583/a28f8b4c-4086-4280-ad12-9e75c6bec716)
