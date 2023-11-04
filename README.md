@@ -45,7 +45,7 @@ Several rules and restrictions were imposed on the database to ensure data accur
 - Creating interfaces for data manipulation.
 - Adding security measures to protect the database.
 
-  <img src="https://github.com/RashidHasan/Movie-Zone-Database-System/assets/136935583/a374839f-b205-49a3-af75-5253dbd001ba" width="700" height="400">
+<img src="https://github.com/RashidHasan/Movie-Zone-Database-System/assets/136935583/a374839f-b205-49a3-af75-5253dbd001ba" width="700" height="400">
 
 
 #### Task 3: Evaluating the Database System
