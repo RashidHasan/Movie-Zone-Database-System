@@ -40,15 +40,14 @@ Several rules and restrictions were imposed on the database to ensure data accur
 - Developing a test plan and conducting testing.
 - Discussing scalability and maintainability improvements.
 
-Feedback from the Subject Doctor:
+## Feedback from the Subject Professor:
 The feedback from the subject doctor is overwhelmingly positive, highlighting the successful completion of the course and the effectiveness of the database design and implementation. Key points of praise include:
-
-    Successful completion of the Database Development and Design Course.
-    Designing a relational database using appropriate tools.
-    Creating a well-designed interface that aligns with system requirements.
-    Suggesting valuable improvements to enhance the system's effectiveness.
-    Properly measuring the database's effectiveness against user and system requirements.
-    Successfully defining data types, keys, and constraints.
-    Demonstrating proficiency in data normalization.
+- Successful completion of the Database Development and Design Course.
+- Designing a relational database using appropriate tools.
+- Creating a well-designed interface that aligns with system requirements.
+- Suggesting valuable improvements to enhance the system's effectiveness.
+- Properly measuring the database's effectiveness against user and system requirements.
+- Successfully defining data types, keys, and constraints.
+- Demonstrating proficiency in data normalization.
 
 Overall, the project represents a commendable effort in applying database development and design concepts to address real-world business needs effectively.
