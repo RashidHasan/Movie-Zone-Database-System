@@ -1,3 +1,6 @@
+
+![Screenshot (1126)](https://github.com/RashidHasan/Movie-Zone-Database-System/assets/136935583/cf9eae4c-89f5-4041-9dd0-30cd0c99be33)
+
 # Overview of Movie Zone Database System Project
 
 In this database project, I was tasked with developing a database system for Movie Zone, a cinema, as a database developer at Creative Developers Company (CDC). The project involved designing and implementing a relational database to streamline the movie reservation process for Movie Zone customers. The project can be summarized in the following key points:
