@@ -30,10 +30,14 @@ Several rules and restrictions were imposed on the database to ensure data accur
 - Ensuring database normalization.
 - Designing input and output interfaces.
 - Assessing and validating the design against requirements.
+  
 <img src="https://github.com/RashidHasan/Movie-Zone-Database-System/assets/136935583/5687ef52-825a-44ba-85cb-8070fdccf716" width="700" height="400">
+<img src="https://github.com/RashidHasan/Movie-Zone-Database-System/assets/136935583/a28f8b4c-4086-4280-ad12-9e75c6bec716" width="700" height="400">
+<img src="https://github.com/RashidHasan/Movie-Zone-Database-System/assets/136935583/1899426c-345e-47d5-b4fe-5278f7ace160" width="700" height="400">
+<img src="https://github.com/RashidHasan/Movie-Zone-Database-System/assets/136935583/b4b45cf7-c0bf-46cf-b917-8cb7a869ad88" width="700" height="400">
+<img src="https://github.com/RashidHasan/Movie-Zone-Database-System/assets/136935583/73f7e7f0-655d-441a-9be9-800142e1be23" width="700" height="400">
 
 
-![Screenshot (1151)](https://github.com/RashidHasan/Movie-Zone-Database-System/assets/136935583/5687ef52-825a-44ba-85cb-8070fdccf716)
 ![Screenshot (1152)](https://github.com/RashidHasan/Movie-Zone-Database-System/assets/136935583/a28f8b4c-4086-4280-ad12-9e75c6bec716)
 ![Screenshot (1154)](https://github.com/RashidHasan/Movie-Zone-Database-System/assets/136935583/1899426c-345e-47d5-b4fe-5278f7ace160)
 ![Screenshot (1156)](https://github.com/RashidHasan/Movie-Zone-Database-System/assets/136935583/b4b45cf7-c0bf-46cf-b917-8cb7a869ad88)
